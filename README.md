@@ -1,2 +1,2 @@
 # Torreon-LaboratoryExercises
-itHub repository for CMSC 28.
+GitHub repository for my Laboratory Exercises in CMSC 28.
